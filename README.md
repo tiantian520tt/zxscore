@@ -14,3 +14,6 @@ BeautifulSoup
 
 # At last
 本脚本仅供学习参考使用，任何非法使用造成的后果与本人无关。遵循开源原则。
+
+# 2024.8 Update
+The lastest version of the ZXScore has fixed this valueable script, we could just use some parts of this script now.
